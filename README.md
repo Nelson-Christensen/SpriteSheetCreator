@@ -1,5 +1,5 @@
 # SpriteSheetCreator
-Takes several images as input and returns them side by side in a single image.  
+Takes several images as input and returns them side by side in a single image (spritesheet).  
 Also allows the user to "play" the image sequence, as a way to preview the animation.
 
 # Input
